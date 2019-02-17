@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b92fe495-6ed1-4ce9-b49e-d304f963f5a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/vagrant/flask_catalog/project.py" beforeDir="false" afterPath="$PROJECT_DIR$/vagrant/flask_catalog/project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vagrant/flask_catalog/restaurantmenu.db" beforeDir="false" afterPath="$PROJECT_DIR$/vagrant/flask_catalog/restaurantmenu.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vagrant/flask_catalog/templates/deletemenuitem.html" beforeDir="false" afterPath="$PROJECT_DIR$/vagrant/flask_catalog/templates/deletemenuitem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vagrant/flask_catalog/templates/editMenuItem.html" beforeDir="false" afterPath="$PROJECT_DIR$/vagrant/flask_catalog/templates/editMenuItem.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vagrant/flask_catalog/templates/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/vagrant/flask_catalog/templates/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vagrant/flask_catalog/templates/newmenuitem.html" beforeDir="false" afterPath="$PROJECT_DIR$/vagrant/flask_catalog/templates/newmenuitem.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,18 +14,18 @@
     <session id="1679076061">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="1" />
           <entry key="html" value="5" />
-          <entry key="py" value="5" />
+          <entry key="py" value="6" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -39,83 +34,25 @@
           <entry key="CSS" value="1" />
           <entry key="HTML" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="5" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="900" />
-          <entry key="py" value="3752" />
+          <entry key="py" value="3929" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="900" />
-          <entry key="Python" value="3752" />
+          <entry key="Python" value="3929" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/project.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="85" lean-forward="true" selection-start-line="35" selection-start-column="85" selection-end-line="35" selection-end-column="85" />
-              <folding>
-                <element signature="e#339#416#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/templates/editmenuitem.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" column="80" lean-forward="true" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/templates/deletemenuitem.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/templates/menu.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/static/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/templates/newmenuitem.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -138,6 +75,7 @@
         <option value="$PROJECT_DIR$/vagrant/flask_catalog/templates/deletemenuitem.html" />
         <option value="$PROJECT_DIR$/vagrant/flask_catalog/templates/menu.html" />
         <option value="$PROJECT_DIR$/vagrant/flask_catalog/project.py" />
+        <option value="$PROJECT_DIR$/vagrant/flask_catalog/database_setup.py" />
       </list>
     </option>
   </component>
@@ -152,6 +90,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,33 +107,12 @@
               <item name="fullstack-nanodegree-vm" type="b2602c69:ProjectViewProjectNode" />
               <item name="fullstack-nanodegree-vm" type="462c0819:PsiDirectoryNode" />
               <item name="vagrant" type="462c0819:PsiDirectoryNode" />
-              <item name="catalog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack-nanodegree-vm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack-nanodegree-vm" type="462c0819:PsiDirectoryNode" />
-              <item name="vagrant" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_catalog" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack-nanodegree-vm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack-nanodegree-vm" type="462c0819:PsiDirectoryNode" />
-              <item name="vagrant" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fullstack-nanodegree-vm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fullstack-nanodegree-vm" type="462c0819:PsiDirectoryNode" />
-              <item name="vagrant" type="462c0819:PsiDirectoryNode" />
-              <item name="flask_catalog" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="OAuth" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +151,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.113804005" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -269,17 +186,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/database_setup.py">
+    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/project.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
-          <caret line="34" selection-start-line="34" selection-end-line="34" selection-end-column="32" />
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/templates/newmenuitem.html">
+    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/database_setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="204">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1550146178210" expanded="true" signature="258:501" ph="..." />
+            <marker date="1550146178210" expanded="true" signature="1081:1087" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/templates/editmenuitem.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="80" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
         </state>
       </provider>
     </entry>
@@ -290,34 +219,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/static/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/templates/menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/templates/editmenuitem.html">
+    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/static/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="80" lean-forward="true" selection-start-line="26" selection-start-column="80" selection-end-line="26" selection-end-column="80" />
+        <state relative-caret-position="204">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/project.py">
+    <entry file="file://$PROJECT_DIR$/vagrant/flask_catalog/templates/newmenuitem.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="85" lean-forward="true" selection-start-line="35" selection-start-column="85" selection-end-line="35" selection-end-column="85" />
-          <folding>
-            <element signature="e#339#416#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
